@@ -54,7 +54,7 @@ function randomizeImages() {
     if (randomOption === true){
         backgroundInterval = setInterval(() => {
             let randomNumber = Math.floor(Math.random() * imgArray.length);
-            landingPage.style.backgroundImage = `url("/imgs/${imgArray[randomNumber]}")`;
+            landingPage.style.backgroundImage = `url("./imgs/${imgArray[randomNumber]}")`;
         }, 10000);
     }
     
