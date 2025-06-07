@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.defaultFormatter": "GitHub.copilot",
+    "liveServer.settings.useWebExt": false,
+    "liveServer.settings.fullReload": false
+}
